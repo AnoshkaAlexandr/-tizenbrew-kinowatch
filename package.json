@@ -1,0 +1,11 @@
+{
+  "name": "tizenbrew-kinowatch",
+  "version": "0.1.0",
+  "description": "TizenBrew site-mod module: opens kino.watch with remote-friendly navigation",
+  "packageType": "mods",
+  "appName": "Kino Watch",
+  "websiteURL": "https://kino.watch/",
+  "main": "main.js",
+  "keys": ["ColorF0Red", "ColorF1Green", "ColorF2Yellow", "ColorF3Blue", "MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop", "MediaFastForward", "MediaRewind"],
+  "license": "MIT"
+}
